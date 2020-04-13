@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "APPCashMachine/1.0.0": {
+        "dependencies": {
+          "LibraryATM": "1.0.0"
+        },
+        "runtime": {
+          "APPCashMachine.dll": {}
+        }
+      },
+      "LibraryATM/1.0.0": {
+        "runtime": {
+          "LibraryATM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APPCashMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

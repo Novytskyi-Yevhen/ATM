@@ -1,0 +1,9 @@
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\bin\Debug\netcoreapp3.1\LibraryATM.deps.json
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\bin\Debug\netcoreapp3.1\LibraryATM.dll
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\bin\Debug\netcoreapp3.1\LibraryATM.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.csprojAssemblyReference.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.csproj.CoreCompileInputs.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.AssemblyInfoInputs.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.AssemblyInfo.cs
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.dll
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.pdb
