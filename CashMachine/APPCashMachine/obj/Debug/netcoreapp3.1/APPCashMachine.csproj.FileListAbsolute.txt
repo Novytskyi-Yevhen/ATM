@@ -1,0 +1,15 @@
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.exe
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.deps.json
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.runtimeconfig.json
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.runtimeconfig.dev.json
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.dll
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\LibraryATM.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.csprojAssemblyReference.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.csproj.CoreCompileInputs.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.AssemblyInfoInputs.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.AssemblyInfo.cs
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.csproj.CopyComplete
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.dll
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.genruntimeconfig.cache
