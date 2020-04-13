@@ -12,7 +12,7 @@ namespace LibraryATM
 
             foreach (int i in ValueMoney) // цикл инициализации словаря
             {
-                ValueCountMoney.Add(i, InputData / i); // i = key; InputData/i = value
+                ValueCountMoney.Add(i, InputData / i); // i = key; InputData    /i = value
                 InputData = InputData % i;
             }
             return ValueCountMoney;

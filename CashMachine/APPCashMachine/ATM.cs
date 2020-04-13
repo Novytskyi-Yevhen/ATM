@@ -25,7 +25,7 @@ namespace APPCashMachine
                     {
                         Console.WriteLine("Успешная попытка. Продолжим");
                         CheckOfAmount = 0;
-                    }
+                    } 
                     else if (AmountEntered<0)
                     {
                         Console.WriteLine("Вы ввели отрицательное число. Повторите пожалуйста попытку.");

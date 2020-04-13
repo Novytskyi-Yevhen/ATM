@@ -4,7 +4,6 @@ F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCash
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.runtimeconfig.dev.json
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\APPCashMachine.pdb
-F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\LibraryATM.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\LibraryATM.pdb
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.csprojAssemblyReference.cache
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.csproj.CoreCompileInputs.cache

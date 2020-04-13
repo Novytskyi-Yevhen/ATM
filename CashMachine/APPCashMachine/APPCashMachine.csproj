@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LibraryATM\LibraryATM.csproj" />
+    <Reference Include="LibraryATM">
+      <HintPath>bin\Debug\netcoreapp3.1\LibraryATM.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
