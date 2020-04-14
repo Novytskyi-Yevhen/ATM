@@ -13,3 +13,4 @@ F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCash
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.pdb
 F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\obj\Debug\netcoreapp3.1\APPCashMachine.genruntimeconfig.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\APPCashMachine\bin\Debug\netcoreapp3.1\LibraryATM.dll
