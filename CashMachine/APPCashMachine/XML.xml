@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ValueCountBanknote>
+  // users корневой элемент
+
+  <BanknoteCountValue_500>500</BanknoteCountValue_500>
+  <BanknoteCountValue_200>300</BanknoteCountValue_200>
+  <BanknoteCountValue_100>10</BanknoteCountValue_100>
+</ValueCountBanknote>
