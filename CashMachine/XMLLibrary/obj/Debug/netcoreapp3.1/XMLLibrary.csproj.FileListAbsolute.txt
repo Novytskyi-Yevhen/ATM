@@ -1,0 +1,9 @@
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\bin\Debug\netcoreapp3.1\XMLLibrary.deps.json
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\bin\Debug\netcoreapp3.1\XMLLibrary.dll
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\bin\Debug\netcoreapp3.1\XMLLibrary.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.csproj.CoreCompileInputs.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.AssemblyInfoInputs.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.AssemblyInfo.cs
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.dll
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.csprojAssemblyReference.cache

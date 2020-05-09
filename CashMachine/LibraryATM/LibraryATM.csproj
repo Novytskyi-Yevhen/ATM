@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="XMLLibrary">
+      <HintPath>..\XMLLibrary\bin\Debug\netcoreapp3.1\XMLLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>

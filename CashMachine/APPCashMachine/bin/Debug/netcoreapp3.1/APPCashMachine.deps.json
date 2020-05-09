@@ -21,6 +21,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "XMLLibrary/1.0.0.0": {
+        "runtime": {
+          "XMLLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -31,6 +39,11 @@
       "sha512": ""
     },
     "LibraryATM/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XMLLibrary/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

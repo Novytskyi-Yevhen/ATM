@@ -96,3 +96,5 @@ F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.cspr
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.pdb
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.genruntimeconfig.cache
+F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\bin\Debug\netcoreapp3.1\XMLLibrary.dll
+F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\bin\Debug\netcoreapp3.1\XMLLibrary.pdb

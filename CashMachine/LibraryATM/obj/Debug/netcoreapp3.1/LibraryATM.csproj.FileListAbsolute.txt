@@ -6,3 +6,7 @@ F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.
 F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.AssemblyInfo.cs
 F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\bin\Debug\netcoreapp3.1\XMLLibrary.dll
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\bin\Debug\netcoreapp3.1\XMLLibrary.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.csproj.CopyComplete
+F:\ReposGit\KeyLR\ATM\CashMachine\LibraryATM\obj\Debug\netcoreapp3.1\LibraryATM.csprojAssemblyReference.cache
