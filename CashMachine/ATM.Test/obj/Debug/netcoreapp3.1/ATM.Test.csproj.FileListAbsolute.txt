@@ -88,7 +88,6 @@ F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\bin\Debug\netcoreapp3.1\zh-Hant\Micro
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\bin\Debug\netcoreapp3.1\LibraryATM.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\bin\Debug\netcoreapp3.1\LibraryATM.pdb
-F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.csprojAssemblyReference.cache
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.csproj.CoreCompileInputs.cache
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.AssemblyInfoInputs.cache
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.AssemblyInfo.cs
@@ -98,3 +97,4 @@ F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.pdb
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.genruntimeconfig.cache
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\bin\Debug\netcoreapp3.1\XMLLibrary.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\bin\Debug\netcoreapp3.1\XMLLibrary.pdb
+F:\ReposGit\KeyLR\ATM\CashMachine\ATM.Test\obj\Debug\netcoreapp3.1\ATM.Test.csprojAssemblyReference.cache

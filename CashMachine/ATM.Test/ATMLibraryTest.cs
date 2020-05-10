@@ -75,11 +75,54 @@ namespace ATMLibraryTest
         {
             //arrange
             int Actual_6 = 6;
-            
             //act
             int Expected_6 = AtmLibrary.CheckWorkATM();
             //assert
-            Assert.AreEqual(Expected_6, Actual_6);
+            Assert.AreEqual(Expected_6,Actual_6);
+        }
+        [Test]
+        public void CheckBanknoteInAtmLibrary()
+        {
+            //arrange 
+            Dictionary<int, int> Actual_880 = new Dictionary<int, int>(){
+                {500, 40},
+                {200, 40},
+                {100, 40},
+                {50, 40},
+                {20, 40},
+                {10, 40}
+            };
+            //act
+            var count = Actual_880.Count;
+            
+
+            Dictionary<int, int> Expected_881 = AtmLibrary.CheckBanknoteInAtm();
+            //assert
+            //Assert.AreEqual(Expected_881, Actual_880);
+            CollectionAssert.AreEquivalent(Expected_881, Actual_880);
+            //Assert.AreEqual(count, Expected_881.Count);
+            //Assert.AreEqual(Actual_880.Keys, Expected_881.Keys);
+            //Assert.AreEqual(Actual_880.Values, Expected_881.Values);
+            
+        }
+        [Test]
+        public void CheckOfAmount()
+        {
+            //arrange
+            int Expected_1_True = 1;
+            int Expected_2_False = 2;
+            int Expected_3_False = 3;
+            int Input_AmountEntered_100 = 100;
+            int Input_AmountEntered_Min_2 = -2;
+            int Input_AmountEntered_234 = 234;
+            //act
+            int Actual_1_True = AtmLibrary.CheckOfAmount(Input_AmountEntered_100);
+            int Actual_2_False = AtmLibrary.CheckOfAmount(Input_AmountEntered_Min_2);
+            int Actual_3_False = AtmLibrary.CheckOfAmount(Input_AmountEntered_234);
+            //assert
+            Assert.AreEqual(Expected_1_True, Actual_1_True);
+            Assert.AreEqual(Expected_2_False, Actual_2_False);
+            Assert.AreEqual(Expected_3_False, Actual_3_False);
         }
     }
 }

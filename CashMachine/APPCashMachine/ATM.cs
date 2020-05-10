@@ -8,9 +8,7 @@ namespace APPCashMachine
     {
         static void Main()
         {
-           
             int CheckWork = AtmLibrary.CheckWorkATM();
-            Console.WriteLine(CheckWork);
 
             if (CheckWork == 6)
             {

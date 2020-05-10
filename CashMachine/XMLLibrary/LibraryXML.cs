@@ -6,16 +6,14 @@ namespace XMLLibrary
 {
     public class LibraryXML
     {
-        public static void XMLBanknoteAdd(Dictionary<int, int> ValueCountMoney, List<int> ListBanknoteCount)
+        public static void XMLBanknoteAdd(Dictionary<int, int> ValueCountMoney, List<int> ListBanknoteCount)// метод добавления банкнот в DataXML//XML.xml
         {
-            
             XmlDocument XML = XmlLoad();
             XmlElement XMLValueCountBanknote = XML.DocumentElement; // разбор xml файла : Получаем корневой элемент
 
             List<int> ValueMoney = new List<int>() { 500, 200, 100, 50, 20, 10 }; // Купюры 10 20 50 100 200 500
             foreach (XmlNode ValueCountBanknoteKey in XMLValueCountBanknote)
             {
-
                 foreach (int ListBanknoteCountKey in ListBanknoteCount)
                 {
                     if (ValueCountBanknoteKey.Name == "BanknoteCountValue_" + Convert.ToString(ListBanknoteCountKey))
@@ -31,9 +29,8 @@ namespace XMLLibrary
                 LibraryXML.XMLSave(XML);
 
             }
-        
-        }
-        public static void XMLBanknoteMinus(Dictionary<int,int> ValueCountMoney)
+        } 
+        public static void XMLBanknoteMinus(Dictionary<int,int> ValueCountMoney)// метод отнимания банкнот из DataXML//XML.xml
         {
             XmlDocument XML = XmlLoad();
             XmlElement XMLValueCountBanknote = XML.DocumentElement; // разбор xml файла : Получаем корневой элемент
@@ -57,8 +54,8 @@ namespace XMLLibrary
                 LibraryXML.XMLSave(XML);
 
             }
-        }
-        public static XmlDocument XmlLoad()// Выгружает в XmlElement данные из XML файла 
+        } 
+        public static XmlDocument XmlLoad()// Возвращает XmlDocument "XML" с заграужеными данными из DataXML//XML.xml 
         {
             XmlDocument XML = new XmlDocument(); // создание элемента XML
             XML.Load("DataXML//XML.xml"); // запись в элемент xml
@@ -68,7 +65,7 @@ namespace XMLLibrary
         {
             XML.Save("DataXML//XML.xml");
         }
-        public static Dictionary<int, int> CheckBanknoteInAtm()// Возвращает словарь со значениями купюр в автомате
+        public static Dictionary<int, int> CheckBanknoteInAtmXML()// Возвращает словарь со значениями купюр в автомате
         {
 
             XmlDocument XML = XmlLoad(); // разбор xml файла : Получаем корневой элемент

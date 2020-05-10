@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Xml;
 using XMLLibrary;
-using System.Linq;
 
 namespace LibraryATM
 {
@@ -93,10 +92,11 @@ namespace LibraryATM
                 return false;
             }
         }
-        public static int CheckWorkATM()
+        public static int CheckWorkATM()// Возвращает число 6 если колл каждой банкноты больше 10
         {
-            Dictionary<int, int> DictionaryCountBanknote = LibraryXML.CheckBanknoteInAtm();
-            int CheckWorkATM = 0;
+            Dictionary<int, int> DictionaryCountBanknote = LibraryXML.CheckBanknoteInAtmXML();
+            
+            int CheckWorkATM = 0; 
             foreach (KeyValuePair<int, int> keyValue in DictionaryCountBanknote)
             {
                 if (keyValue.Value > 10)
@@ -104,11 +104,12 @@ namespace LibraryATM
                     CheckWorkATM++;
                 }
             }
+            
             return CheckWorkATM;
-        }// Возвращает число 6 если кол каждой банкноты больше 10
-        public static Dictionary<int, int> CheckBanknoteInAtm()
+        }
+        public static Dictionary<int, int> CheckBanknoteInAtm()// Возвращает словарь со значениями из DataXML//XML.xml
         {
-            Dictionary<int, int> DictionaryCountBanknote = LibraryXML.CheckBanknoteInAtm();
+            Dictionary<int, int> DictionaryCountBanknote = LibraryXML.CheckBanknoteInAtmXML();
             // На выходе словарь со значениями из XML
             return DictionaryCountBanknote;
 }

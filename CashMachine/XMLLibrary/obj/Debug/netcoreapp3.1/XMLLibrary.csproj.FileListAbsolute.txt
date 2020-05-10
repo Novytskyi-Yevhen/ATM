@@ -6,4 +6,3 @@ F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.
 F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.AssemblyInfo.cs
 F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.dll
 F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.pdb
-F:\ReposGit\KeyLR\ATM\CashMachine\XMLLibrary\obj\Debug\netcoreapp3.1\XMLLibrary.csprojAssemblyReference.cache
