@@ -1,3 +1,3 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ValueCountBanknote> // ValueCountBanknote корневой элемент
-  <BanknoteCountValue_500>382</BanknoteCountValue_500><BanknoteCountValue_200>16</BanknoteCountValue_200><BanknoteCountValue_100>20</BanknoteCountValue_100><BanknoteCountValue_50>27</BanknoteCountValue_50><BanknoteCountValue_20>56</BanknoteCountValue_20><BanknoteCountValue_10>62</BanknoteCountValue_10></ValueCountBanknote>
+  <BanknoteCountValue_500>380</BanknoteCountValue_500><BanknoteCountValue_200>64</BanknoteCountValue_200><BanknoteCountValue_100>20</BanknoteCountValue_100><BanknoteCountValue_50>76</BanknoteCountValue_50><BanknoteCountValue_20>94</BanknoteCountValue_20><BanknoteCountValue_10>99</BanknoteCountValue_10></ValueCountBanknote>

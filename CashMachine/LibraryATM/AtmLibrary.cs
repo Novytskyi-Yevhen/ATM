@@ -11,7 +11,7 @@ namespace LibraryATM
             // new stage
 
             XmlDocument XML = new XmlDocument(); // создание элемента XML
-            XML.Load("F://ReposGit//KeyLR//ATM//CashMachine//APPCashMachine//XML.xml"); // запись в элемент xml
+            XML.Load("F://VSproject//ATM//CashMachine//APPCashMachine//XML.xml"); // запись в элемент xml
             XmlElement XMLValueCountBanknote = XML.DocumentElement; // разбор xml файла : Получаем корневой элемент
 
             static int CheckAmountEntered(XmlElement XMLValueCountBanknote)
@@ -107,7 +107,7 @@ namespace LibraryATM
                         XmlText AlCount = XML.CreateTextNode(ValueCountBanknoteKey.InnerText);
                     }
                 }
-                XML.Save("F://ReposGit//KeyLR//ATM//CashMachine//APPCashMachine//XML.xml");
+                XML.Save("F://VSproject//ATM//CashMachine//APPCashMachine//XML.xml");
 
             }
 
@@ -153,7 +153,7 @@ namespace LibraryATM
             }
 
             XmlDocument XML = new XmlDocument(); // создание элемента XML
-            XML.Load("F://ReposGit//KeyLR//ATM//CashMachine//APPCashMachine//XML.xml"); // запись в элемент xml
+            XML.Load("F://VSproject//ATM//CashMachine//APPCashMachine//XML.xml"); // запись в элемент xml
             XmlElement ValueCountBanknote = XML.DocumentElement; // разбор xml файла : Получаем корневой элемент
 
             // Цикл добавления значений в xml
@@ -174,7 +174,7 @@ namespace LibraryATM
                         XmlText AlCount = XML.CreateTextNode(ValueCountBanknoteKey.InnerText);
                     }
                 }
-                XML.Save("F://ReposGit//KeyLR//ATM//CashMachine//APPCashMachine//XML.xml");
+                XML.Save("F://VSproject//ATM//CashMachine//APPCashMachine//XML.xml");
             }
         } 
         public static bool CheckMinusValue(int AmountEntered)// Возвращает True если число больше нуля и False если меньше
@@ -215,7 +215,7 @@ namespace LibraryATM
         public static Dictionary<int,int> CheckBanknoteInAtm()// Возвращает словарь со значениями купюр в автомате
         {
             XmlDocument XML = new XmlDocument(); // создание элемента XML
-            XML.Load("F://ReposGit//KeyLR//ATM//CashMachine//APPCashMachine//XML.xml"); // запись в элемент xml
+            XML.Load("F://VSproject//ATM//CashMachine//APPCashMachine//XML.xml"); // запись в элемент xml
             XmlElement XMLValueCountBanknote = XML.DocumentElement; // разбор xml файла : Получаем корневой элемент
 
             List<int> ValueMoney = new List<int>() { 500, 200, 100, 50, 20, 10 }; // Купюры 10 20 50 100 200 500

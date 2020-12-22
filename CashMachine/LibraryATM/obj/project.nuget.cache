@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPJfB0eoORcpVW525wSAQCXgUSLzrOuw0f3qan8TTxR14NRp1F3eDucMALVTWeN2CS3UqJO2E13HxGXBBCLLtA==",
+  "dgSpecHash": "onKTGLzMsTg8y1fpc2HEOATW09Xios22F+g0YmMVNsj1D0yXTK8aK0DcTsCnxrVZ6yoAZR8plFdYRXqwOXE0gg==",
   "success": true,
-  "projectFilePath": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj",
+  "projectFilePath": "F:\\VSproject\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

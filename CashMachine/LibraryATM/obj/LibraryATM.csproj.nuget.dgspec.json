@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj": {}
+    "F:\\VSproject\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj": {}
   },
   "projects": {
-    "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj": {
+    "F:\\VSproject\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj",
+        "projectUniqueName": "F:\\VSproject\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj",
         "projectName": "LibraryATM",
-        "projectPath": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj",
+        "projectPath": "F:\\VSproject\\ATM\\CashMachine\\LibraryATM\\LibraryATM.csproj",
         "packagesPath": "C:\\Users\\Kedr\\.nuget\\packages\\",
-        "outputPath": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\LibraryATM\\obj\\",
+        "outputPath": "F:\\VSproject\\ATM\\CashMachine\\LibraryATM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kedr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

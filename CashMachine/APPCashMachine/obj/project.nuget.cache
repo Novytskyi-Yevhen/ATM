@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQ2KQ2xNigFjI81psuB90e6BHntq9BtFarnGm5DRUaGzwJ2SPEZOi49KJC2jJFYHWYaCWCblab6HXb6870PCng==",
+  "dgSpecHash": "fKZ8iqFeGrtA9fNeD70zcZfcCnoJhInEMO4yeIyZo/agNyaINHvhHknjobZXr5eg3rjzGFRM/pOESMC08cQRIw==",
   "success": true,
-  "projectFilePath": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\APPCashMachine\\APPCashMachine.csproj",
+  "projectFilePath": "F:\\VSproject\\ATM\\CashMachine\\APPCashMachine\\APPCashMachine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

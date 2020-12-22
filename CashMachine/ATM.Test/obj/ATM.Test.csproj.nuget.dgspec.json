@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj": {}
+    "F:\\VSproject\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj": {}
   },
   "projects": {
-    "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj": {
+    "F:\\VSproject\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj",
+        "projectUniqueName": "F:\\VSproject\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj",
         "projectName": "ATM.Test",
-        "projectPath": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj",
+        "projectPath": "F:\\VSproject\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj",
         "packagesPath": "C:\\Users\\Kedr\\.nuget\\packages\\",
-        "outputPath": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\ATM.Test\\obj\\",
+        "outputPath": "F:\\VSproject\\ATM\\CashMachine\\ATM.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kedr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

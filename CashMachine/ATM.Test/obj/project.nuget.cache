@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fnn3Q+LfiQ2YKebv2hF4L9+B9OQTo983YnkV1eOSCbq38gxazOYTWPKz6BpQhivJIM5hPonNQeRk1fRM0RQApg==",
+  "dgSpecHash": "MqIY0KFkpeiTVF6nnvotvC8BXeejAA99nwzjOe1l4YUi84NaTMKPk6Nod9ibANyIVmxoTHmBPvOPREbRS05A/g==",
   "success": true,
-  "projectFilePath": "F:\\ReposGit\\KeyLR\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj",
+  "projectFilePath": "F:\\VSproject\\ATM\\CashMachine\\ATM.Test\\ATM.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kedr\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\Kedr\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
